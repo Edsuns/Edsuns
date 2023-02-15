@@ -1,4 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edsuns)](https://github.com/anuraghazra/github-readme-stats)
+[![Edsuns's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edsuns&count_private=true)](https://github.com/Edsuns)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edsuns&layout=compact)](https://github.com/Edsuns)
 
 - 👀 我热爱创造，尝试用代码改变这个世界
 - 🌱 正在努力学习，致力成为一名后端技术专家
